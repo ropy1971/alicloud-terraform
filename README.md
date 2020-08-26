@@ -2,6 +2,10 @@
 
 This repository is containing all resources dedicated to Alibaba Cloud/Aliyun based on Terraform technology. 
 
+# Status
+
+[PUBLIC]
+
 # Folders organization
 
 There are some folders to organize resources.
@@ -11,6 +15,8 @@ There are some folders to organize resources.
 - pictures.
 - resources.
 
+# Comments 
+
 # License
 
-# Last update: 2020.08.22
+# Last update: 2020.08.26
