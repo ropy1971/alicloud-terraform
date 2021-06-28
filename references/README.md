@@ -1,11 +1,22 @@
-# README.me
+
+# README.md
 
 ## introduction
 
-This folder is containing references used/interesting for the project.
+this folder is containing some references concerning the solution Kubernetes.
 
 ## content
 
-- [Markdown syntax](https://github.com/ropy1971/alicloud-terraform/blob/master/references/markdown-cheatsheet-online.pdf)
+## references
 
-## last updates: 2021.06.25
+Some useful references for this repository.
+
+### documentation
+
+### reading
+
+### webistes
+
+## last updates: 2021.06.28
+
+
