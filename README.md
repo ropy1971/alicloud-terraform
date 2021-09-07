@@ -13,6 +13,6 @@
 
 ## license
 
-Check the license file.
+Check the [license](./LICENSE) file.
 
-## last updates: 2021.06.25
+## last updates: 2021.09.07
